@@ -601,7 +601,7 @@ Ketik *nyerah* untuk menyerah dan mengakui kekalahan`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                naze.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/470f03e9594fb185a79a8.png' }, caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n*Jika ingin sewa bot atau premium*\n*Silahkan Chat Owner*\n\n wa.me/+6281252733108\n\n*Transfer via*\n- *Gopay Dana Ovo Qris ShopeePay*\n Ke nomer berikut : 081252733108\n\n_Terima kasih_` }, { quoted: m })
+                naze.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/f5b6ab77d72dc33efa60b.jpg' }, caption: `*${ucapanWaktu} Kak ${m.pushName}*\n\n*Jika ingin sewa bot atau premium*\n*Silahkan Chat Owner*\n\n wa.me/+6281252733108\n\n*Transfer via*\n- *Gopay Dana Ovo Qris ShopeePay*\n Ke nomer berikut : 081252733108\n\n_Terima kasih_` }, { quoted: m })
             }
             break
             case 'sc': {
